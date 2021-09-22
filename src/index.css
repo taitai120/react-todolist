@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Baitap1 - CSS
+.header {
+  background: red;
+  text-align: center;
+  padding: 50px 0;
+  color: white;
+}
+
+.footer {
+  background: steelblue;
+  text-align: center;
+  padding: 50px 0;
+  color: white;
+}
+
+.content__container {
+  display: flex;
+}
+
+.content {
+  background: limegreen;
+  text-align: center;
+  padding: 150px 0;
+  color: white;
+  width: 70%;
+}
+
+.sidebar {
+  background: darkorchid;
+  text-align: center;
+  padding: 150px 0;
+  color: white;
+  width: 30%;
+} */
